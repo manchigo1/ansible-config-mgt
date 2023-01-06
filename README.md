@@ -1,2 +1,2 @@
 # ansible-config-mgt
-SSave artifactsss
+SSave artifact
