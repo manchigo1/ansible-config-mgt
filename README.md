@@ -1,4 +1,4 @@
 
-save artifactsBBB
+save artifact
 
 
